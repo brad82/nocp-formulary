@@ -12,7 +12,7 @@ Adrenalin
 
 ## Classification
 
-Platelet aggregation inhibitor, analgesic, anti-inflammatory, antipyretic
+Sympathomimetic agonist, hormone
 
 ## Indications
 
@@ -53,11 +53,13 @@ Pediatric: (patient assist) Epi Jr - 0.15 mg
 
 ## Supplied
 
-1mg in 1mL ampule
 Autoinjector:
 
 - EpiPen 0.3 mg,
-- EpiPen JR. -0.15mg 30 mg in 30 ml multi-dose
+- EpiPen JR. -0.15mg
+
+1mg in 1mL ampule
+30 mg in 30 ml multi-dose
 
 ## Mechanism
 

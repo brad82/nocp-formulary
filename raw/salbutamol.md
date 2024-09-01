@@ -8,7 +8,7 @@ salbutamol sulfate
 
 ## Trade Name
 
-Ventolin (Canada), Atrovent (United States)
+Ventolin (Canada), Albuterol (United States)
 
 ## Classification
 
