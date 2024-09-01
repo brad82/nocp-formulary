@@ -34,17 +34,17 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.0.3
         with:
-          node-version: '20.9'
+          node-version: "20.9"
       - run: npm ci
       - name: Generate Formulary
-        run: mkdir dist && node index.mjs 
+        run: node index.mjs
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'dist'
+          path: "public"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
