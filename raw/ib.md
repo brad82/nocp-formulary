@@ -62,3 +62,8 @@ This causes bronchodilation and dries respiratory tract secretions.
 ## Notes
 
 Always administer with Ventolin because the onset of effects of Atrovent is greater than 5 min
+
+== Meta ==
+{
+"scope": "assist"
+}

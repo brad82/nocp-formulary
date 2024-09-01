@@ -26,7 +26,7 @@ Hypersensitivity
 - Caution in patients with cardiac history
 - May cause hypokalemia
 - May cause hyperglycemia
-- Watch for paradoxical bronchospasm (stop immediately)
+- Watch for paradoxical bronchospasm (stop igit initmmediately)
 
 ## Side effects
 
@@ -68,3 +68,8 @@ Watch for tachycardia with administration
 Decreased effect in patients on beta blockers
 
 Salbutamol may precipitate angina and dyshythmias
+
+== Meta ==
+{
+"scope": "assist"
+}

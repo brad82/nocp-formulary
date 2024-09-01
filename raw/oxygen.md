@@ -63,3 +63,8 @@ The administration of enriched oxygen increases the oxygen concentration in the 
 ## Notes
 
 Oxygen supports combustion vigorously so not should be used in explosive environments
+
+== Meta ==
+{
+"scope": "administer"
+}

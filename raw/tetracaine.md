@@ -1,0 +1,57 @@
+# Generic Name
+
+Pontocaine
+
+# Trade
+
+Topical ophthalmic anesthetic
+
+# Mechanism
+
+Reduces sodium permeability therefore increasing the action potential of the cell which inhibits the conduciton of nerve impulses from the sensory nerves.
+
+- Onset is immediate
+- Peak effects within 1 min
+- Duration of 10-15 min
+- 1/2 life is unknown
+
+# Indications
+
+- Short term relief from eye irritation or pain
+- Patient comfort before eye irrigation
+
+# Contraindications
+
+- Open injury to the eye
+- Sulfite medications
+- Paraben medications
+
+# Precautions
+
+Tetracaine is not recommended for long term use
+
+# Side effects
+
+- Burning or stinging sensation
+- Blurred vision
+- Photophobia
+- Irritation
+
+# Dose
+
+Adult: 1-2 drops/eye
+
+Pediatric: 1-2 drops/eye
+
+# Supplied
+
+0.5% solution in various volumes
+
+# Notes
+
+Incompatible with mercury or silver salts often found in opthalmic products
+
+== Meta ==
+{
+"scope": "information-only"
+}

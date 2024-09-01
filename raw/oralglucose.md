@@ -52,3 +52,8 @@ It is in a state that the body does not need to alter for use, which increases t
 - Give patient more complex carbohydrates as glucose is quickly used up
 - Given orally to increase sugar to > 4mmol/l
 - Mustbe swallowed to be effective
+
+== Meta ==
+{
+"scope": "administer"
+}

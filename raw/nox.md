@@ -78,3 +78,8 @@ Entonox® is a mixture of 50% oxygen and 50% nitrous oxide.
 - Liquids may not vaporize in cold environments
 - Make note of psi and time at the beginning and end of use Document amount of gas used
 - Use only in well ventilated area
+
+== Meta ==
+{
+"scope": "assist"
+}

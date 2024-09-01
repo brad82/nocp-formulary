@@ -9,13 +9,21 @@ const md = markdownit();
 const objects = readdirSync(dir)
   .filter((p) => extname(p) === ".md")
   .map((fileName) => {
-    const markdown = readFileSync(resolve(dir, fileName)).toString();
-    const body = md.render(markdown);
+    const [text, footer] = readFileSync(resolve(dir, fileName))
+      .toString()
+      .split("== Meta ==");
+
+    const body = md.render(text);
+    const meta = JSON.parse(footer);
+
     const [[match, title]] = [...body.matchAll(/<p>(.*)<\/p>/g)];
+
+    console.log(meta);
     return {
       id: fileName.replace(".md", ""),
       title,
       body,
+      meta,
     };
   });
 
@@ -29,7 +37,10 @@ for (let i = 0; i < objects.length; i++) {
     .dat(objects[i].title)
     .up()
     .ele("body")
-    .dat(objects[i].body);
+    .dat(objects[i].body)
+    .ele("meta")
+    .ele("scope")
+    .dat(objects[i].meta.scope);
 }
 
 writeFileSync(
