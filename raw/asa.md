@@ -1,3 +1,7 @@
+---
+scope: administer
+---
+
 ## Generic Name
 
 acetylsalicylic acid (ASA)
@@ -68,8 +72,3 @@ It blocks formation of thromboxane A2, which causes platelets to aggregate and a
 ## Notes
 
 Should be given as soon as possible to patients with ACS indications
-
-== Meta ==
-{
-"scope": "administer"
-}

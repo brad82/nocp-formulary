@@ -1,3 +1,7 @@
+---
+scope: information-only
+---
+
 ## Generic Name
 
 nitroglycerin
@@ -76,8 +80,3 @@ Nitro should be kept from direct light and in glass containers
 Remove all patches in cardiac arrest situations
 
 Administer IV nitroglycerin by infusion pump to ensure precise flow rate
-
-== Meta ==
-{
-"scope": "information-only"
-}

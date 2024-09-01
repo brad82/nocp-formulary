@@ -1,3 +1,7 @@
+---
+scope: assist
+---
+
 ## Generic Name
 
 salbutamol sulfate
@@ -68,8 +72,3 @@ Watch for tachycardia with administration
 Decreased effect in patients on beta blockers
 
 Salbutamol may precipitate angina and dyshythmias
-
-== Meta ==
-{
-"scope": "assist"
-}

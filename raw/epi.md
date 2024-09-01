@@ -1,3 +1,7 @@
+---
+scope: assist
+---
+
 ## Generic Name
 
 epinephrine 1:1,000
@@ -79,8 +83,3 @@ Increased systemic vascular resistance
 ## Notes
 
 Monitor vitals continually
-
-== Meta ==
-{
-"scope": "assist"
-}

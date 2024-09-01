@@ -1,3 +1,7 @@
+---
+scope: information-only
+---
+
 ## Generic Name
 
 glucagon
@@ -66,8 +70,3 @@ May have decreased to no effect on malnourished individuals
 Avoid shaking after reconstitution as the medication will foam and delay administration time
 
 Glucagon should not be considered as a first-line treatment for hyperglycemia
-
-== Meta ==
-{
-"scope": "information-only"
-}

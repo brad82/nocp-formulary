@@ -1,3 +1,8 @@
+---
+scope: information-only
+order: 1
+---
+
 ## Generic Name
 
 tetracaine
@@ -54,8 +59,3 @@ Reduces sodium permeability therefore increasing the action potential of the cel
 ## Notes
 
 Incompatible with mercury or silver salts often found in opthalmic products
-
-== Meta ==
-{
-"scope": "information-only"
-}

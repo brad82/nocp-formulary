@@ -1,3 +1,7 @@
+---
+scope: administer
+---
+
 ## Generic Name
 
 naloxone
@@ -60,8 +64,3 @@ It can be used to treat narcotics and synthetic narcotic agents.
 Higher doses of 10 -20 mg may be required for overdoses of synthetic narcotics. Narcan has no real effect when given when narcotics are not present.
 
 Should be used ni caution ni the case of polypharmacy overdoses, though respiratory depression usually the largest issue for administration.
-
-== Meta ==
-{
-"scope": "administer"
-}
