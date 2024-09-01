@@ -10,21 +10,6 @@ Glucagon
 
 Pancreatic hormone, anti-hypoglycemic
 
-# Mechanism
-
-Glucagon is a naturally occurring hormone released by the pancreas
-When released it enters the liver causing a breakdown of glycogen stores into glucose.
-It also inhibits the synthesis of glucose into glycogen.
-Glucagon binds to receptors on the cells membrane causing an increase of cyclic AMP (cAMP).
-The increase in cAMP helps to facilitate calcium into the cells causing increased heart rate and inotropic response and decreases renal vascular resistance.
-
-Out of scope for FMR practitioners in Alberta.
-
-- Onset in 1 min
-- Peak effects are variable based on patient's condition
-- Duration of 60 - 90 min
-- ½ life of 8 - 18 min
-
 # Indications
 
 Hypoglycemia - unable to use oral glucose
@@ -56,6 +41,21 @@ Pediatric > 20lg 0.5-1.0mg SC
 # Supplied
 
 1mg powder with 1mL solute (needs to be reconstituted)
+
+# Mechanism
+
+Glucagon is a naturally occurring hormone released by the pancreas
+When released it enters the liver causing a breakdown of glycogen stores into glucose.
+It also inhibits the synthesis of glucose into glycogen.
+Glucagon binds to receptors on the cells membrane causing an increase of cyclic AMP (cAMP).
+The increase in cAMP helps to facilitate calcium into the cells causing increased heart rate and inotropic response and decreases renal vascular resistance.
+
+Out of scope for FMR practitioners in Alberta.
+
+- Onset in 1 min
+- Peak effects are variable based on patient's condition
+- Duration of 60 - 90 min
+- ½ life of 8 - 18 min
 
 # Notes
 

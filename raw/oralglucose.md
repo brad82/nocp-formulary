@@ -44,7 +44,7 @@ It is in a state that the body does not need to alter for use, which increases t
 - Onset in 1 min PO
 - Peak effects within 3 min
 - Duration is brief
-- 1/2 life is unknown
+- ½ life is unknown
 
 ## Notes
 

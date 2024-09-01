@@ -1,19 +1,14 @@
 # Generic Name
 
-Pontocaine
+tetracaine
 
 # Trade
 
+Pontocaine
+
+# Classification
+
 Topical ophthalmic anesthetic
-
-# Mechanism
-
-Reduces sodium permeability therefore increasing the action potential of the cell which inhibits the conduciton of nerve impulses from the sensory nerves.
-
-- Onset is immediate
-- Peak effects within 1 min
-- Duration of 10-15 min
-- 1/2 life is unknown
 
 # Indications
 
@@ -46,6 +41,15 @@ Pediatric: 1-2 drops/eye
 # Supplied
 
 0.5% solution in various volumes
+
+# Mechanism
+
+Reduces sodium permeability therefore increasing the action potential of the cell which inhibits the conduciton of nerve impulses from the sensory nerves.
+
+- Onset is immediate
+- Peak effects within 1 min
+- Duration of 10-15 min
+- ½ life is unknown
 
 # Notes
 

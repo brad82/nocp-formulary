@@ -58,7 +58,7 @@ The administration of enriched oxygen increases the oxygen concentration in the 
 - Onset is immediate
 - Peak effect within < 1 min
 - Duration of < 2 min
-- 1/2 life is not applicable
+- ½ life is not applicable
 
 ## Notes
 

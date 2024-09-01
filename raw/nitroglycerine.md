@@ -6,19 +6,6 @@ nitroglycerin
 
 Nitrolingual (spray), Nitrostat (tablets)
 
-# Mechanism
-
-Nitroglycerin is a rapid smooth muscle relaxant that causes peripheral vasodilation of blood vessels and decreases return to the heart (preload), to a lesser extent on the afterload.
-
-This decreases the workload of the cardiac muscle, hence decreasing myocardial oxygen demand and as a result improves the perfusion to the ischemic myocardium
-
-Nitroglycerin is lipid soluble and is thought to enter the body from the GI tract through the lymphatics rather than the portal blood
-
-- Onset in 1-2 min
-- Peak effect within 5-10 min
-- Duration of 20-30 min
-- 1/2 life of 1-5 min
-
 # Indications
 
 - Ischemic chest pain
@@ -66,6 +53,19 @@ Adult:
 0.3mg Tablet
 0.4mg Metered Dose Spray
 0.4,0.8mg/hr patches
+
+# Mechanism
+
+Nitroglycerin is a rapid smooth muscle relaxant that causes peripheral vasodilation of blood vessels and decreases return to the heart (preload), to a lesser extent on the afterload.
+
+This decreases the workload of the cardiac muscle, hence decreasing myocardial oxygen demand and as a result improves the perfusion to the ischemic myocardium
+
+Nitroglycerin is lipid soluble and is thought to enter the body from the GI tract through the lymphatics rather than the portal blood
+
+- Onset in 1-2 min
+- Peak effect within 5-10 min
+- Duration of 20-30 min
+- ½ life of 1-5 min
 
 # Notes
 
