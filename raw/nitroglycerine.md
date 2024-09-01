@@ -1,19 +1,19 @@
-# Generic Name
+## Generic Name
 
 nitroglycerin
 
-# Trade
+## Trade
 
 Nitrolingual (spray), Nitrostat (tablets)
 
-# Indications
+## Indications
 
 - Ischemic chest pain
 - Acute congestive heart failure (CHF)
 - Acute coronary syndrome (ACS)
 - Angina pectoris
 
-# Contraindications
+## Contraindications
 
 - Hypersensitivity
 - Blood pressure below 100 systolic (RVI 100) or >30mmHg below baseline
@@ -22,7 +22,7 @@ Nitrolingual (spray), Nitrostat (tablets)
 - Cerebral haemorrhage
 - Extremy bradycardia or tachycardia (<50 BPM or >100BPM in the absense of heart failure)
 
-# Precautions
+## Precautions
 
 Patients taking nitroglycerin regularly may develop a tolerance for the drug
 
@@ -30,7 +30,7 @@ Use extreme caution in RVI patients (preload dependant)
 
 Unable to initiate an IV
 
-# Side effects
+## Side effects
 
 - Hypotension
 - Nausea/vomiting
@@ -38,7 +38,7 @@ Unable to initiate an IV
 - Tachycardia
 - Dizziness
 
-# Dose
+## Dose
 
 Adult:
 
@@ -48,13 +48,13 @@ Adult:
 0.5-0.5mg/hr patch q(1)
 0.3mg tablet SL
 
-# Supplied
+## Supplied
 
 0.3mg Tablet
 0.4mg Metered Dose Spray
 0.4,0.8mg/hr patches
 
-# Mechanism
+## Mechanism
 
 Nitroglycerin is a rapid smooth muscle relaxant that causes peripheral vasodilation of blood vessels and decreases return to the heart (preload), to a lesser extent on the afterload.
 
@@ -67,7 +67,7 @@ Nitroglycerin is lipid soluble and is thought to enter the body from the GI trac
 - Duration of 20-30 min
 - ½ life of 1-5 min
 
-# Notes
+## Notes
 
 Remove patches before administering dose
 

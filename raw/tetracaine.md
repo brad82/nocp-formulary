@@ -1,48 +1,48 @@
-# Generic Name
+## Generic Name
 
 tetracaine
 
-# Trade
+## Trade
 
 Pontocaine
 
-# Classification
+## Classification
 
 Topical ophthalmic anesthetic
 
-# Indications
+## Indications
 
 - Short term relief from eye irritation or pain
 - Patient comfort before eye irrigation
 
-# Contraindications
+## Contraindications
 
 - Open injury to the eye
 - Sulfite medications
 - Paraben medications
 
-# Precautions
+## Precautions
 
 Tetracaine is not recommended for long term use
 
-# Side effects
+## Side effects
 
 - Burning or stinging sensation
 - Blurred vision
 - Photophobia
 - Irritation
 
-# Dose
+## Dose
 
 Adult: 1-2 drops/eye
 
 Pediatric: 1-2 drops/eye
 
-# Supplied
+## Supplied
 
 0.5% solution in various volumes
 
-# Mechanism
+## Mechanism
 
 Reduces sodium permeability therefore increasing the action potential of the cell which inhibits the conduciton of nerve impulses from the sensory nerves.
 
@@ -51,7 +51,7 @@ Reduces sodium permeability therefore increasing the action potential of the cel
 - Duration of 10-15 min
 - ½ life is unknown
 
-# Notes
+## Notes
 
 Incompatible with mercury or silver salts often found in opthalmic products
 

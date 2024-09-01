@@ -1,29 +1,29 @@
-# Generic Name
+## Generic Name
 
 glucagon
 
-# Trade Name
+## Trade Name
 
 Glucagon
 
-# Classification
+## Classification
 
 Pancreatic hormone, anti-hypoglycemic
 
-# Indications
+## Indications
 
 Hypoglycemia - unable to use oral glucose
 
-# Contraindications
+## Contraindications
 
 - Hypersensitivity
 - Allergy to beef or pork products
 
-# Precautions
+## Precautions
 
 May take up to 15 mins to see effects
 
-# Side effects
+## Side effects
 
 - Hypotension
 - Tachycardia
@@ -32,17 +32,17 @@ May take up to 15 mins to see effects
 - Dizziness
 - Urticaria
 
-# Dose
+## Dose
 
 Adult: 1mg IM/SC q(7-10)
 
 Pediatric > 20lg 0.5-1.0mg SC
 
-# Supplied
+## Supplied
 
 1mg powder with 1mL solute (needs to be reconstituted)
 
-# Mechanism
+## Mechanism
 
 Glucagon is a naturally occurring hormone released by the pancreas
 When released it enters the liver causing a breakdown of glycogen stores into glucose.
@@ -57,7 +57,7 @@ Out of scope for FMR practitioners in Alberta.
 - Duration of 60 - 90 min
 - ½ life of 8 - 18 min
 
-# Notes
+## Notes
 
 Patients must have adequate glycogen stores in the liver
 
