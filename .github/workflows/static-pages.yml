@@ -35,6 +35,7 @@ jobs:
         uses: actions/setup-node@v4.0.3
         with:
           node-version: '20.9'
+      - run: npm ci
       - name: Generate Formulary
         run: mkdir dist && node index.mjs 
       - name: Setup Pages
