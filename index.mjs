@@ -38,6 +38,7 @@ for (let i = 0; i < objects.length; i++) {
     .up()
     .ele("body")
     .dat(objects[i].body)
+    .up()
     .ele("meta")
     .ele("scope")
     .dat(objects[i].meta.scope);
