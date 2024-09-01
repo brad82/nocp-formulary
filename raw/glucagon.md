@@ -1,6 +1,6 @@
 # Generic Name
 
-Glucagon
+glucagon
 
 # Trade Name
 
