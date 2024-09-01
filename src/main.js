@@ -1,7 +1,7 @@
 import { extname, resolve, basename } from "node:path";
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
-import parseFile from "./parse-file.mjs";
-import generateXml from "./generate-xml.mjs";
+import parseFile from "./helpers/parse-file.js";
+import generateXml from "./helpers/generate-xml.js";
 
 const dir = "./raw";
 

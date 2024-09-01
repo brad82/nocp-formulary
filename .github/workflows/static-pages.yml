@@ -37,7 +37,7 @@ jobs:
           node-version: "20.9"
       - run: npm ci
       - name: Generate Formulary
-        run: node index.mjs
+        run: npm run generate
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
