@@ -33,7 +33,7 @@ for (let i = 0; i < objects.length; i++) {
 }
 
 writeFileSync(
-  "formulary.xml",
+  "dist/formulary.xml",
   doc.end({
     prettyPrint: true,
   })
