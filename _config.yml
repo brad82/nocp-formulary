@@ -22,7 +22,7 @@ title: PMA Formulary
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/acp-emr-formulary" # the subpath of your site, e.g. /blog
-url: "brad82.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brad82.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: sighingnow/jekyll-gitbook
