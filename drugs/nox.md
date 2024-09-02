@@ -8,7 +8,7 @@ nitrous oxide
 
 ## Trade Name
 
-Entonox, Nitronox
+Entonox®, Nitronox®
 
 ## Classification
 

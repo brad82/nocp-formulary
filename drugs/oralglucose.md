@@ -10,6 +10,10 @@ oral glucose
 
 Oral glucose
 
+## Classification
+
+Antihypoglycemic, carbohydrate
+
 ## Indications
 
 Hypoglycemia
@@ -22,7 +26,7 @@ Hypoglycemia
 
 ## Precautions
 
-None
+None noted.
 
 ## Side effects
 
@@ -31,7 +35,7 @@ None
 
 ## Dose
 
-24 - 31g
+PO: 24 - 31g
 
 ## Supplied
 
@@ -52,7 +56,7 @@ It is in a state that the body does not need to alter for use, which increases t
 
 ## Notes
 
-- Patient must be able to self-administer drug
-- Give patient more complex carbohydrates as glucose is quickly used up
-- Given orally to increase sugar to > 4mmol/l
-- Mustbe swallowed to be effective
+- Patient must be able to self-administer drug.
+- Give patient more complex carbohydrates as glucose is quickly used up.
+- Given orally to increase sugar to > 4mmol/l.
+- **Must be swallowed to be effective**.

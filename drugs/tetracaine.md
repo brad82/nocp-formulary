@@ -39,7 +39,8 @@ Tetracaine is not recommended for long term use
 
 ## Dose
 
-Adult: 1-2 drops/eye
+Adult:\
+&nbsp;1-2 drops/eye
 
 Pediatric: 1-2 drops/eye
 

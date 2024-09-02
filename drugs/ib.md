@@ -8,7 +8,7 @@ ipratropium bromide
 
 ## Trade Name
 
-Atrovent
+Atrovent®
 
 ## Classification
 
@@ -45,7 +45,8 @@ Avoid getting in the eyes of patients especially those with glaucoma as it may l
 
 ## Dose
 
-Adult (patient assist): 4-8 puffs (80-160mcg) w/spacer q(5-10) m(30 puffs)
+Adult (patient assist):\
+&nbsp;&nbsp; 4-8 puffs (80-160mcg) w/spacer q(5-10) m(30 puffs)
 
 ## Supplied
 
@@ -61,7 +62,7 @@ This causes bronchodilation and dries respiratory tract secretions.
 - Onset varies - usually > 5 minutes
 - Peak effects within 1.5 - 2 hours
 - Duration of 4 - 6 hours
-- 1⁄2 life of 1.5 - 2 hours
+- ½ life of 1.5 - 2 hours
 
 ## Notes
 

@@ -1,9 +1,10 @@
 import { extname, resolve, basename } from "node:path";
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
+
 import parseFile from "./helpers/parse-file.js";
 import generateXml from "./helpers/generate-xml.js";
 
-const dir = "./raw";
+const dir = "./drugs";
 
 const objects = readdirSync(dir)
   .filter((p) => extname(p) === ".md")
@@ -15,5 +16,4 @@ const objects = readdirSync(dir)
   .map(parseFile);
 
 writeFileSync("public/formulary.xml", generateXml(objects));
-
 writeFileSync("public/formulary.json", JSON.stringify(objects));

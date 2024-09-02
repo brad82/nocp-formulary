@@ -38,9 +38,11 @@ May take up to 15 mins to see effects
 
 ## Dose
 
-Adult: 1mg IM/SC q(7-10)
+Adult:\
+&nbsp;&nbsp;1mg IM/SC q(7-10)
 
-Pediatric > 20lg 0.5-1.0mg SC
+Pediatric:\
+&nbsp;&nbsp;&gt; 20lg 0.5-1.0mg SC
 
 ## Supplied
 

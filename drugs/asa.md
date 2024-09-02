@@ -18,8 +18,8 @@ Platelet aggregation inhibitor, analgesic, anti-inflammatory, antipyretic
 
 - Acute Coronary Syndrome (ACS)
 - Cardiac chest pain
-- Mild pain (PCP only)
-- Fever (PCP only)
+- Mild pain (_PCP only_)
+- Fever (_PCP only_)
 
 ## Contraindications
 
@@ -29,7 +29,7 @@ Platelet aggregation inhibitor, analgesic, anti-inflammatory, antipyretic
 
 ## Precautions
 
-May increase chances of Reye's syndrome in febrile pediatrics
+May increase chances of [Reye's syndrome](https://en.wikipedia.org/wiki/Reye_syndrome) in febrile pediatrics
 
 Used in caution with patients who report allergies to NSAID medications
 
@@ -50,11 +50,13 @@ Does higher than recommended can interfere with possible benefits
 
 ## Dose
 
-Chest pain:
+### Chest pain:
 
-Adult: 160-325mg non-enteric coated tablet chewed
+Adult:\
+&nbsp;&nbsp;160-325mg non-enteric coated tablet chewed
 
-Pediatric: not recommended pre-hospital
+Pediatric:\
+&nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
 ## Supplied
 
@@ -64,12 +66,13 @@ Pediatric: not recommended pre-hospital
 
 Once digested ASA causes changes to the surfaces of platelets decreasing its effectiveness in clot formation.
 
-It blocks formation of thromboxane A2, which causes platelets to aggregate and arteries to constrict in the clotting cascade. This change lasts as long as the platelet is in circulation (5 - 7 days)
+It blocks formation of thromboxane A2, which causes platelets to aggregate and arteries to constrict in the clotting cascade. This change lasts as long as the platelet is in circulation (5 - 7 days).
 
 - Onset in 5-30 min
-- Peak effects within 15-120 min Duration of 1-4 hours
-- 1⁄2 life of 15-20 min
+- Peak effects within 15-120 min
+- Duration of 1-4 hours
+- ½ life of 15-20 min
 
 ## Notes
 
-Should be given as soon as possible to patients with ACS indications
+Should be given as soon as possible to patients with ACS indications.

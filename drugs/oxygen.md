@@ -10,6 +10,10 @@ oxygen
 
 Oxygen
 
+## Trade Name
+
+Gas
+
 ## Indications
 
 - Hypoxia

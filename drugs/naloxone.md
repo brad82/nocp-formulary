@@ -38,9 +38,12 @@ Use with caution in narcotic-dependent patients who may experience withdrawal sy
 
 Titrate to effect:
 
-- Adult IM: 0.4mg m(2mg)
-- Adult IN: 1.0mg/nare, q(3-5) prn
-- Pediatric: 0.1mg/kg given MI m(2mg)
+Adult:\
+&nbsp;&nbsp;IM: 0.4mg, m(2mg)\
+&nbsp;&nbsp;IN: 1.0mg/nare, q(3-5) prn
+
+Pediatric:\
+&nbsp;&nbsp;IM: 0.1mg/kg, m(2mg)
 
 ## Supplied
 
@@ -54,10 +57,12 @@ It competes for narcotic receptors in the brain and it can also displace narcoti
 
 It can be used to treat narcotics and synthetic narcotic agents.
 
-- Onset in < 2min IV/10, 2-10 min IM/ETT (ETT ALS only)
-- Peak effects within < 2min IV/lO, 2-10 min IM/ETT (ETT ALS only)
+- Onset in < 2min IV/IO, 2-10 min IM/ETT\*
+- Peak effects within < 2min IV/IO, 2-10 min IM/ETT\*
 - Duration of 20-120 min
-- 1⁄2 life of 60-90min
+- ½ life of 60-90min
+
+\* ETT ALS Only
 
 ## Notes
 

@@ -8,7 +8,7 @@ nitroglycerin
 
 ## Trade
 
-Nitrolingual (spray), Nitrostat (tablets)
+Nitrolingual® (spray), Nitrostat® (tablets)
 
 ## Indications
 
@@ -54,9 +54,9 @@ Adult:
 
 ## Supplied
 
-0.3mg Tablet
-0.4mg Metered Dose Spray
-0.4,0.8mg/hr patches
+0.3mg Tablet\
+0.4mg Metered Dose Spray\
+0.4,0.8mg/hr Patches
 
 ## Mechanism
 
