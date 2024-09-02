@@ -24,7 +24,8 @@ Platelet aggregation inhibitor, analgesic, anti-inflammatory, antipyretic
 ## Contraindications
 
 - Hypersensitivity to salicylates or NSAIDs
-- Active bleed internal or external Blood clotting disorders
+- Active bleed (internal or external)
+- Blood clotting disorders
 
 ## Precautions
 
