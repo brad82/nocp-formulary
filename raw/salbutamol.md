@@ -8,7 +8,7 @@ salbutamol sulfate
 
 ## Trade Name
 
-Ventolin (Canada), Albuterol (United States)
+Ventolin® (Canada), Albuterol (United States)
 
 ## Classification
 
@@ -45,9 +45,12 @@ Hypersensitivity
 
 ## Dose
 
-Adult (assist): 5-10 puffs (50-10mcg) q(5-10) m(∞)
+Adult (assist): \
+&nbsp;&nbsp;5-10 puffs (500-100mcg) q(5-10) m(∞)
 
-Pediatric (assist): < 20kg: 2- 4 puffs with MDI and spacer > 20kg: 4-8 puffs wit hMDI and spacer
+Pediatric (assist): \
+&nbsp;&nbsp;&gt; 20kg: 2- 4 puffs w/ MDI and spacer \
+&nbsp;&nbsp;&lt; 20kg: 4-8 puffs w/ MDI and spacer
 
 ## Supplied
 
