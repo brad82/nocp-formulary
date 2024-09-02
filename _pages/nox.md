@@ -1,4 +1,6 @@
 ---
+layout: post
+title: nitrous oxide
 scope: assist
 ---
 
@@ -73,7 +75,7 @@ Entonox® is a mixture of 50% oxygen and 50% nitrous oxide.
 - Onset in 2 - 5 min
 - Peak effects within 2 - 5 min
 - Duration of 2 - 5 min
-- 1⁄2 life is unknown
+- ½ life is unknown
 
 ## Notes
 

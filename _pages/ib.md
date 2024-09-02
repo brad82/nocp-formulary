@@ -1,4 +1,6 @@
 ---
+layout: post
+title: ipratropium bromide
 scope: assist
 ---
 

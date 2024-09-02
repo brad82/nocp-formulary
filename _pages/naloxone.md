@@ -1,4 +1,6 @@
 ---
+layout: post
+title: naloxone
 scope: administer
 ---
 
@@ -62,7 +64,7 @@ It can be used to treat narcotics and synthetic narcotic agents.
 - Duration of 20-120 min
 - ½ life of 60-90min
 
-\* ETT ALS Only
+\* **ETT ALS Only**
 
 ## Notes
 

@@ -1,4 +1,6 @@
 ---
+layout: post
+title: glucagon
 scope: information-only
 ---
 

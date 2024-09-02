@@ -1,13 +1,14 @@
 ---
+layout: post
+title: tetracaine
 scope: information-only
-order: 1
 ---
 
 ## Generic Name
 
 tetracaine
 
-## Trade
+## Trade Name
 
 Pontocaine
 
@@ -40,9 +41,10 @@ Tetracaine is not recommended for long term use
 ## Dose
 
 Adult:\
-&nbsp;1-2 drops/eye
+&nbsp;&nbsp;1-2 drops/eye
 
-Pediatric: 1-2 drops/eye
+Pediatric:\
+&nbsp;&nbsp;1-2 drops/eye
 
 ## Supplied
 

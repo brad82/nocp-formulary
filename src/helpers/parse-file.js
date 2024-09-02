@@ -1,6 +1,5 @@
 import markdownit from "markdown-it";
 import { parse } from "yaml";
-import { basename } from "node:path";
 
 const md = markdownit();
 
@@ -29,17 +28,20 @@ export function sectionsFromHeadings(body) {
 
 export default function parseFile({ id, buffer }) {
   const source = buffer.toString();
-  const [header, headerContent] = source.match(/---\n(.*)---/s);
+  const [header, headerContent] = source.match(/---\n(.*)---\n/s);
 
   let body = source.replace(header, "");
   body = md.render(body);
 
   const meta = parse(headerContent);
-  const [[titleTag, title]] = [...body.matchAll(/<p>(.*)<\/p>/g)];
+
+  if ("layout" in meta) {
+    delete meta.layout;
+  }
 
   return {
     id,
-    title,
+    title: meta.title,
     body,
     meta,
     sections: sectionsFromHeadings(source),

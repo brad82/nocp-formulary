@@ -1,4 +1,6 @@
 ---
+layout: post
+title: salbutamol sulfate
 scope: assist
 ---
 
@@ -66,7 +68,7 @@ It relaxes smooth muscles of the bronchial tree and peripheral vasculature by st
 - Onset in 5-8 min
 - Peak effects within 1-1.5 hours
 - Duration of 3-6 hours
-- 1⁄2 life of ≤ 3 hours
+- ½ life of ≤ 3 hours
 
 ## Notes
 

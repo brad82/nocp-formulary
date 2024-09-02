@@ -1,4 +1,6 @@
 ---
+layout: post
+title: oxygen
 scope: administer
 ---
 
@@ -40,11 +42,13 @@ Prolonged non-humidified high flow oxygen administration mya cause drying of the
 
 ## Dose
 
-- Nasal cannula: 1 - 6L/m = 24-44%
-- Simplefacemask: 8-10L/m = 40-60%
-- Partial non-rebreather mask: 6-10L/m = 35-60%
-- Non-rebreathingmask: 10-15L/m = 80-95%
-- Bag valve mask: 12 - 20L/m = 90-100%
+| Device       | Flow (L/m) | % O2   |
+| ------------ | ---------- | ------ |
+| Nasal Canula | 1-6        | 24-44  |
+| Face Mask    | 8-10       | 40-60  |
+| Partial NRB  | 6-10       | 35-60  |
+| NRB          | 10-15      | 80-95  |
+| BVM          | 15-20      | 90-100 |
 
 ## Supplied
 
