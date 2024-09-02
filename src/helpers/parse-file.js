@@ -4,7 +4,7 @@ import { parse } from "yaml";
 const md = markdownit();
 
 export function sectionsFromHeadings(body) {
-  const headingRegex = /## (.*)/g;
+  const headingRegex = /\n#{2} (.*)/g;
   const headings = [...body.matchAll(headingRegex)];
 
   const sections = [];
