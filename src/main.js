@@ -15,5 +15,5 @@ const objects = readdirSync(dir)
   }))
   .map(parseFile);
 
-writeFileSync("data/formulary.xml", generateXml(objects));
-writeFileSync("data/formulary.json", JSON.stringify(objects));
+writeFileSync("formulary.xml", generateXml(objects));
+writeFileSync("formulary.json", JSON.stringify(objects));

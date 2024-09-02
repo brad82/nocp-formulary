@@ -5,5 +5,5 @@ title: Feeds
 layout: home
 ---
 
-- [XML](data/formulary.xml)
-- [JSON](data/formulary.json)
+- [XML](formulary.xml)
+- [JSON](formulary.json)

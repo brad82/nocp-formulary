@@ -15,3 +15,6 @@ vendor
 scans
 node_modules
 *.xml
+
+formulary.json
+formulary.xml
