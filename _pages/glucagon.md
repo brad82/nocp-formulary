@@ -44,7 +44,7 @@ Adult:\
 &nbsp;&nbsp;1mg IM/SC q(7-10)
 
 Pediatric:\
-&nbsp;&nbsp;&gt; 20lg 0.5-1.0mg SC
+&nbsp;&nbsp;&gt; 20kg 0.5-1.0mg SC
 
 ## Supplied
 
