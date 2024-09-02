@@ -1,4 +1,6 @@
 ---
+layout: post
+title: nitroglycerin
 scope: information-only
 ---
 
@@ -6,7 +8,7 @@ scope: information-only
 
 nitroglycerin
 
-## Trade
+## Trade Name
 
 Nitrolingual® (spray), Nitrostat® (tablets)
 

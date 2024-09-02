@@ -6,8 +6,12 @@
 *.swp
 Thumbs.db
 
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 scans
 node_modules
 *.xml
-
-public/formulary.*

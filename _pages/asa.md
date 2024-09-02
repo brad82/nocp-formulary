@@ -1,4 +1,6 @@
 ---
+layout: post
+title: acetylsalicylic acid (ASA)
 scope: administer
 ---
 

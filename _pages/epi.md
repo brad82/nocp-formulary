@@ -1,4 +1,6 @@
 ---
+layout: post
+title: epinephrine 1:1,000
 scope: assist
 ---
 

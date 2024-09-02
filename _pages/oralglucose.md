@@ -1,4 +1,6 @@
 ---
+layout: post
+title: oral glucose
 scope: administer
 ---
 
