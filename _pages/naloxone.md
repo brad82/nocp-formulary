@@ -68,6 +68,6 @@ It can be used to treat narcotics and synthetic narcotic agents.
 
 ## Notes
 
-Higher doses of 10 -20 mg may be required for overdoses of synthetic narcotics. Narcan has no real effect when given when narcotics are not present.
+Higher doses of 10-20mg may be required for overdoses of synthetic narcotics. Narcan has no real effect when given when narcotics are not present.
 
-Should be used ni caution ni the case of polypharmacy overdoses, though respiratory depression usually the largest issue for administration.
+Should be used in caution in the case of polypharmacy overdoses, though respiratory depression usually the largest issue for administration.

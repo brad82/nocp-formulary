@@ -51,7 +51,7 @@ Adult (assist): \
 &nbsp;&nbsp;5-10 puffs (500-100mcg) q(5-10) m(∞)
 
 Pediatric (assist): \
-&nbsp;&nbsp;&gt; 20kg: 2- 4 puffs w/ MDI and spacer \
+&nbsp;&nbsp;&gt; 20kg: 2-4 puffs w/ MDI and spacer \
 &nbsp;&nbsp;&lt; 20kg: 4-8 puffs w/ MDI and spacer
 
 ## Supplied

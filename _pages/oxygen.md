@@ -12,7 +12,7 @@ oxygen
 
 Oxygen
 
-## Trade Name
+## Classification
 
 Gas
 

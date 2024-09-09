@@ -52,7 +52,7 @@ Pediatric:\
 
 ## Mechanism
 
-Glucagon is a naturally occurring hormone released by the pancreas
+Glucagon is a naturally occurring hormone released by the pancreas.
 When released it enters the liver causing a breakdown of glycogen stores into glucose.
 It also inhibits the synthesis of glucose into glycogen.
 Glucagon binds to receptors on the cells membrane causing an increase of cyclic AMP (cAMP).

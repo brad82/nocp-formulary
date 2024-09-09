@@ -52,7 +52,7 @@ Adult:
 
 SL: 0.4mg spray SL q(5) until relief _or_ BP < 100 systolic _or_ m(3 sprays in 15 min)\
 0.3mg SL tablet\
-0.5-0.5mg/hr SC patch q(1)\
+0.5-0.5mg/hr SC patch q(1)
 
 ## Supplied
 
