@@ -2,6 +2,7 @@
 layout: post
 title: acetylsalicylic acid (ASA)
 scope: administer
+version: 7.1
 ---
 
 ## Generic Name
@@ -20,8 +21,8 @@ Platelet aggregation inhibitor, analgesic, anti-inflammatory, antipyretic
 
 - Acute Coronary Syndrome (ACS)
 - Cardiac chest pain
-- Mild pain (_PCP only_)
-- Fever (_PCP only_)
+- Mild pain
+- Fever
 
 ## Contraindications
 
@@ -31,15 +32,15 @@ Platelet aggregation inhibitor, analgesic, anti-inflammatory, antipyretic
 
 ## Precautions
 
-May increase chances of [Reye's syndrome](https://en.wikipedia.org/wiki/Reye_syndrome) in febrile pediatrics
+May increase chances of [Reye's syndrome](https://en.wikipedia.org/wiki/Reye_syndrome) in febrile pediatrics.
 
-Used in caution with patients who report allergies to NSAID medications
+Used in caution with patients who report allergies to NSAID medications.
 
-Use caution in people with active ulcers Bleeding disorders
+Use caution in people with active ulcers or Bleeding disorders.
 
-May cause bronchoconstriction in asthmatics
+May cause bronchoconstriction in asthmatics.
 
-Does higher than recommended can interfere with possible benefits
+Does higher than recommended can interfere with possible benefits.
 
 ## Side effects
 
@@ -60,9 +61,19 @@ Adult:\
 Pediatric:\
 &nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
+
+### Mild pain or fever
+Adult:\
+&nbsp;&nbsp; 325-650mg PO q 4hrs\
+&nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)
+
+Pediatric:\
+&nbsp;&nbsp;⚠️ Not recommended pre-hospital
+
 ## Supplied
 
-80 mg, 81 mg, 325 mg, 650 mg tablets
+80 mg, 81 mg, 325 mg, 650 mg tablets\
+300mg suppositories (ALS only)
 
 ## Mechanism
 
@@ -77,4 +88,6 @@ It blocks formation of thromboxane A2, which causes platelets to aggregate and a
 
 ## Notes
 
-Should be given as soon as possible to patients with ACS indications.
+Should be given as soon as possible to patients with ACS or cardiac chest pain indications.
+
+It also appears to reduce the rate of nonfatal reinfaction and nonfatal stroke

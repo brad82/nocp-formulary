@@ -10,7 +10,7 @@ naloxone
 
 ## Trade Name
 
-Narcan
+Narcan®
 
 ## Classification
 
@@ -60,9 +60,9 @@ It competes for narcotic receptors in the brain and it can also displace narcoti
 It can be used to treat narcotics and synthetic narcotic agents.
 
 - Onset in < 2min IV/IO, 2-10 min IM/ETT\*
-- Peak effects within < 2min IV/IO, 2-10 min IM/ETT\*
+- Peak effects within < 2 min IV/IO, 2-10 min IM/ETT\*
 - Duration of 20-120 min
-- ½ life of 60-90min
+- ½ life of 60-90 min
 
 \* **ETT ALS Only**
 
