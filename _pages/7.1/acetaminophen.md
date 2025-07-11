@@ -2,7 +2,7 @@
 layout: post
 title: acetaminophen
 scope: administer
-version: 7.1
+version: pcp/7.1
 ---
 
 ## Generic Name
@@ -55,9 +55,8 @@ Pediatric:\
 &nbsp;&nbsp; 10-15 mg/kg/dose (do not exceed 5 doses/day or 2.6g) or 12.5mg/kg for ages 2-12\
 &nbsp;&nbsp; Pediatric doses should be confirmed with Pharmacist or Physician
 
-
-
 ### Mild pain or fever
+
 Adult:\
 &nbsp;&nbsp; 325-650mg PO q 4hrs\
 &nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)

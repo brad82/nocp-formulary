@@ -2,6 +2,7 @@
 layout: post
 title: dimenhydrinate
 scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name

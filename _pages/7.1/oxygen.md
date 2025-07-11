@@ -33,7 +33,7 @@ Oxygen should never be withheld in a critically ill or injured patient
 
 Oxygen should be used cautiously in patients with COPD
 
-In these patients, respirations are often regulated by the level of oxygen in the blood (hypoxic drive) and not CO~2~ levels
+In these patients, respirations are often regulated by the level of oxygen in the blood (hypoxic drive) and not CO₂ levels
 
 In some cases, COPD patients may sufer severe respiratory depression if high concentrations of oxygen are delivered for extended periods of time > 18 hours
 

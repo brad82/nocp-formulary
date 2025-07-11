@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PMA Formulary
+title: NOCP Formulary
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/acp-emr-formulary" # the subpath of your site, e.g. /blog
