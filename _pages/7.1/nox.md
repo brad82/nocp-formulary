@@ -2,6 +2,7 @@
 layout: post
 title: nitrous oxide
 scope: assist
+version: pcp/7.1
 ---
 
 ## Generic Name

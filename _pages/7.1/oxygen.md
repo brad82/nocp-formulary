@@ -2,7 +2,7 @@
 layout: post
 title: oxygen
 scope: administer
-version: 7.1
+version: pcp/7.1
 ---
 
 ## Generic Name
@@ -63,6 +63,7 @@ Various commonly utilized pre-hospital cylinders:
 | H    | 7080L    |
 
 ### Tank factors:
+
 | Size | Tank Factor |
 | ---- | ----------- |
 | D    | 0.16        |
@@ -72,9 +73,9 @@ Various commonly utilized pre-hospital cylinders:
 
 ### Calculation Formula:
 
-1) Tank remaining psi - residual pressure (200 psi) = psi reading
-2) PSI reading from above X tank factor = volume of gas
-3) Volume of gas from above ÷ by LPM of decice being used = min remaining
+1. Tank remaining psi - residual pressure (200 psi) = psi reading
+2. PSI reading from above X tank factor = volume of gas
+3. Volume of gas from above ÷ by LPM of decice being used = min remaining
 
 ## Mechanism
 

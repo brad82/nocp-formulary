@@ -2,6 +2,7 @@
 layout: post
 title: oral glucose
 scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name

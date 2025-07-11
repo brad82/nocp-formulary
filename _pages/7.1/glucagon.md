@@ -1,7 +1,8 @@
 ---
 layout: post
 title: glucagon
-scope: information-only
+scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name

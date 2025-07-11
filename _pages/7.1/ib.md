@@ -1,7 +1,8 @@
 ---
 layout: post
 title: ipratropium bromide
-scope: assist
+scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name
