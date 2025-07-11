@@ -19,7 +19,7 @@ Pancreatic hormone, anti-hypoglycemic
 
 ## Indications
 
-Hypoglycemia and unable to get an IV for D50W
+Hypoglycemia and unable to get an IV for D₅₀W
 
 β blocker overdose (ALS Only)
 

@@ -2,7 +2,7 @@
 layout: post
 title: methoxyfluorane
 scope: administer
-version: 7.1
+version: pcp/7.1
 ---
 
 ## Generic Name
@@ -66,8 +66,8 @@ Adult:\
 Pediatric:\
 &nbsp;&nbsp;⚠️ Not approved for Pediatric use in Canada.
 
-
 ### Mild pain or fever
+
 Adult:\
 &nbsp;&nbsp; 325-650mg PO q 4hrs\
 &nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)

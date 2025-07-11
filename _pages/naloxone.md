@@ -79,4 +79,4 @@ Higher doses of 10-20mg may be required for overdoses of synthetic narcotics. Na
 
 Should be used in caution in the case of polypharmacy overdoses, though respiratory depression usually the largest issue for administration.
 
-**Should not be used as part of a "coma cocktail" (naloxone, D50W, thiamine, Anexate) to correct an altered LOC patient**
+**Should not be used as part of a "coma cocktail" (naloxone, D₅₀W, thiamine, Anexate) to correct an altered LOC patient**
