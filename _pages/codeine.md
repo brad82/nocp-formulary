@@ -2,6 +2,7 @@
 layout: post
 title: Codeine
 scope: information-only
+version: pcp/7.1
 ---
 
 ## Generic Name
