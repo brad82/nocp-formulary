@@ -2,6 +2,7 @@
 layout: post
 title: naloxone
 scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name
@@ -10,7 +11,7 @@ naloxone
 
 ## Trade Name
 
-Narcan
+Narcan®
 
 ## Classification
 
@@ -41,15 +42,21 @@ Use with caution in narcotic-dependent patients who may experience withdrawal sy
 Titrate to effect:
 
 Adult:\
-&nbsp;&nbsp;IM: 0.4mg, m(2mg)\
-&nbsp;&nbsp;IN: 1.0mg/nare, q(3-5) prn
+&nbsp;&nbsp;0.4mg-2mg IV/IO/IM/SC/ETT m(2mg)\
+&nbsp;&nbsp;1.0mg/nare IN, q(3-5) prn
 
-Pediatric:\
-&nbsp;&nbsp;IM: 0.1mg/kg, m(2mg)
+Pediatric < 5yo / 20kg :\
+&nbsp;&nbsp;0.1mg/kg, m(2.0mg) IV/IO/IM/SC/ETT q(3-5) prn
+
+Pediatric > 5yo / 20kg :\
+&nbsp;&nbsp;2.0mg/kg, m(2.0mg) IV/IO/IM/SC/ETT
+
+**via ETT ALS Only**
 
 ## Supplied
 
-2 mg in 2 mL vials
+- 0.4mg in 1 mL vial or ampule
+- 2 mg in 2 mL vials
 
 ## Mechanism
 
@@ -60,9 +67,9 @@ It competes for narcotic receptors in the brain and it can also displace narcoti
 It can be used to treat narcotics and synthetic narcotic agents.
 
 - Onset in < 2min IV/IO, 2-10 min IM/ETT\*
-- Peak effects within < 2min IV/IO, 2-10 min IM/ETT\*
+- Peak effects within < 2 min IV/IO, 2-10 min IM/ETT\*
 - Duration of 20-120 min
-- ½ life of 60-90min
+- ½ life of 60-90 min
 
 \* **ETT ALS Only**
 
@@ -71,3 +78,5 @@ It can be used to treat narcotics and synthetic narcotic agents.
 Higher doses of 10-20mg may be required for overdoses of synthetic narcotics. Narcan has no real effect when given when narcotics are not present.
 
 Should be used in caution in the case of polypharmacy overdoses, though respiratory depression usually the largest issue for administration.
+
+**Should not be used as part of a "coma cocktail" (naloxone, D50W, thiamine, Anexate) to correct an altered LOC patient**

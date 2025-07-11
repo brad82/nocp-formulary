@@ -2,6 +2,7 @@
 layout: post
 title: oral glucose
 scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name
@@ -22,7 +23,7 @@ Hypoglycemia
 
 ## Contraindications
 
-- No active gag reflex
+- No active gag reflexes
 - Patient is unable to maintain their own airway
 - Hyperglycemia
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: nitroglycerin
-scope: information-only
+scope: administer
+version: pcp/7.1
 ---
 
 ## Generic Name
@@ -14,19 +15,21 @@ Nitrolingual® (spray), Nitrostat® (tablets)
 
 ## Indications
 
+- Cardiac chest pain
 - Ischemic chest pain
-- Acute congestive heart failure (CHF)
+- Acute congestive heart failure (CHF) (ALS Only)
 - Acute coronary syndrome (ACS)
 - Angina pectoris
 
 ## Contraindications
 
 - Hypersensitivity
-- Blood pressure below 100 systolic (RVI 100) or >30mmHg below baseline
-- Viagra (sildenafil) or Levitra (vardenafil) use in the past 24 hours
-- Cialis (tedalafil) use within the past 48 hours
+- Blood pressure below 100 systolic (RVI 100) or ≥30mmHg below baseline
+- Viagra® (sildenafil) or Levitra® (vardenafil) use in the past 24 hours
+- Cialis® (tedalafil) use within the past 48 hours
 - Cerebral haemorrhage
-- Extremy bradycardia or tachycardia (<50 BPM or >100BPM in the absense of heart failure)
+- Extreme bradycardia (<50 BPM) or tachycardia (>150BPM)
+- Unable to initiate an IV
 
 ## Precautions
 
@@ -46,18 +49,15 @@ Unable to initiate an IV
 
 ## Dose
 
-Adult:
-
-**Patient Assist and not currently within scope in Alberta**
-
+Adult:\
 SL: 0.4mg spray SL q(5) until relief _or_ BP < 100 systolic _or_ m(3 sprays in 15 min)\
-0.3mg SL tablet\
-0.5-0.5mg/hr SC patch q(1)
+SC: 0.4-0.8mg/hr patch q(1) \
+SL: 0.3mg tablet
 
 ## Supplied
 
 0.3mg Tablet\
-0.4mg Metered Dose Spray\
+0.4mg Metered Dose Spray (do not spray)\
 0.4,0.8mg/hr Patches
 
 ## Mechanism
@@ -80,5 +80,7 @@ Remove patches before administering dose
 Nitro should be kept from direct light and in glass containers
 
 Remove all patches in cardiac arrest situations
+
+!!! ALS Only
 
 Administer IV nitroglycerin by infusion pump to ensure precise flow rate
