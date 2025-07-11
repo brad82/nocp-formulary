@@ -22,7 +22,7 @@ Hypoglycemia
 
 ## Contraindications
 
-- No active gag reflex
+- No active gag reflexes
 - Patient is unable to maintain their own airway
 - Hyperglycemia
 

@@ -10,7 +10,7 @@ tetracaine
 
 ## Trade Name
 
-Pontocaine
+Pontocaine®
 
 ## Classification
 

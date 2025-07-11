@@ -18,7 +18,11 @@ Pancreatic hormone, anti-hypoglycemic
 
 ## Indications
 
-Hypoglycemia - unable to use oral glucose
+Hypoglycemia and unable to get an IV for D50W
+
+β blocker overdose (ALS Only)
+
+Calcium channel blocker overdose (ALS Only)
 
 ## Contraindications
 
@@ -40,11 +44,21 @@ May take up to 15 mins to see effects
 
 ## Dose
 
+### Hypoglycemia
+
 Adult:\
-&nbsp;&nbsp;1mg IM/SC q(7-10)
+&nbsp;&nbsp;1mg IM/SC q(7-10) to a max of 2mg
 
 Pediatric:\
-&nbsp;&nbsp;&gt; 20kg 0.5-1.0mg SC
+&nbsp;&nbsp;\> 20kg 0.5-1.0mg IM
+
+### β Blocker/calcium channel blocker overdose (ALS Only)
+
+Adult:\
+&nbsp;&nbsp;3-10 mg SIVP/IO followed by a second dose of 10mg SIVP/IO or an infusion at 3-5mg/hr
+
+Pediatric:\
+&nbsp;&nbsp;\> 20kg 0.5mg SIVP/IO
 
 ## Supplied
 
@@ -58,19 +72,21 @@ It also inhibits the synthesis of glucose into glycogen.
 Glucagon binds to receptors on the cells membrane causing an increase of cyclic AMP (cAMP).
 The increase in cAMP helps to facilitate calcium into the cells causing increased heart rate and inotropic response and decreases renal vascular resistance.
 
-Out of scope for FMR practitioners in Alberta.
+This response is the desired effect when given for a β-blocker and calcium channel blocker overdose
 
-- Onset in 1 min
-- Peak effects are variable based on patient's condition
-- Duration of 60 - 90 min
-- ½ life of 8 - 18 min
+- Onset in 5-10 min
+- Peak effects are variable based on patient's condition, approximately 30 min
+- Duration of 1-2 hours
+- ½ life is variable based on the patient's condition
 
 ## Notes
 
-Patients must have adequate glycogen stores in the liver
+Patients must have adequate glycogen stores in the liver for glucagon to be effective
 
 May have decreased to no effect on malnourished individuals
 
 Avoid shaking after reconstitution as the medication will foam and delay administration time
 
 Glucagon should not be considered as a first-line treatment for hyperglycemia
+
+Blood pressure is decreased due to the diminished sympathetic tone secondary to a significantly improved cardiac output and may occur immediately or up to two hours after IV administration.

@@ -21,7 +21,7 @@ Gaseous analgesic, anesthetic gas
 - Muscular skeletal pain (particularly fractures)
 - Back pain
 - Ischemic chest pain
-- Active labour -child birth
+- Active labour - child birth
 - Burns
 
 ## Contraindications

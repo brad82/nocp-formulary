@@ -1,7 +1,7 @@
 ---
 layout: post
 title: salbutamol sulfate
-scope: assist
+scope: administer
 ---
 
 ## Generic Name
@@ -19,7 +19,7 @@ Bronchodilator, sympathomimetic
 ## Indications
 
 - Bronchospasm
-- Anaphylaxis
+- Anaphylaxis - with bronchospasm
 - Hyperkalemia (ALS only)
 
 ## Contraindications
@@ -32,7 +32,7 @@ Hypersensitivity
 - Caution in patients with cardiac history
 - May cause hypokalemia
 - May cause hyperglycemia
-- Watch for paradoxical bronchospasm (stop igit initmmediately)
+- Watch for paradoxical bronchospasm (stop administration initmmediately)
 
 ## Side effects
 
@@ -42,17 +42,20 @@ Hypersensitivity
 - Tremors
 - Arrhythmias
 - Palpitations
-- Tachycardia
+- Tachycardia/tachypnea
 - Muscle cramps
 
 ## Dose
 
 Adult (assist): \
-&nbsp;&nbsp;5-10 puffs (500-100mcg) q(5-10) m(∞)
+&nbsp;&nbsp;2.5-5mg nebulized q(10-15) m(∞)
+&nbsp;&nbsp;4-8 puffs (400-800mcg) q(5-10) m(∞)
 
 Pediatric (assist): \
-&nbsp;&nbsp;&gt; 20kg: 2-4 puffs w/ MDI and spacer \
-&nbsp;&nbsp;&lt; 20kg: 4-8 puffs w/ MDI and spacer
+&nbsp;&nbsp;&gt; 20kg: 2.5mg nebulized q(20min) m(∞) \
+&nbsp;&nbsp;&lt; 20kg: 2.5-5mg nebulized q(20min) m(∞)
+
+4-8 puffs (400-800mcg) with MDI and spacer if not intubated
 
 ## Supplied
 
@@ -65,10 +68,10 @@ Salbutamol sulfate is a sympathomimetic which is selective for B2-adrenergic rec
 
 It relaxes smooth muscles of the bronchial tree and peripheral vasculature by stimulating adrenergic receptors of the sympathetic nervous system.
 
-- Onset in 5-8 min
+- Onset in 5-15 min
 - Peak effects within 1-1.5 hours
 - Duration of 3-6 hours
-- ½ life of ≤ 3 hours
+- ½ life of < 3 hours
 
 ## Notes
 
@@ -77,3 +80,5 @@ Watch for tachycardia with administration
 Decreased effect in patients on beta blockers
 
 Salbutamol may precipitate angina and dyshythmias
+
+May cause hypoglycemia
