@@ -49,16 +49,16 @@ Unable to initiate an IV
 
 ## Dose
 
-Adult:\
-SL: 0.4mg spray SL q(5) until relief _or_ BP < 100 systolic _or_ m(3 sprays in 15 min)\
-SC: 0.4-0.8mg/hr patch q(1) \
+**Adult:**  
+SL: 0.4mg spray SL q(5) until relief _or_ BP < 100 systolic _or_ m(3 sprays in 15 min)  
+SC: 0.4-0.8mg/hr patch q(1)  
 SL: 0.3mg tablet
 
 ## Supplied
 
-0.3mg Tablet\
-0.4mg Metered Dose Spray (do not spray)\
-0.4,0.8mg/hr Patches
+0.3mg Tablet  
+0.4mg Metered Dose Spray (do not spray).
+0.4, 0.8mg/hr Patches
 
 ## Mechanism
 

@@ -50,7 +50,7 @@ Avoid getting in the eyes of patients especially those with glaucoma as it may l
 
 ### Adult:
 
-&nbsp;&nbsp; 250-200mcg/dose nebulized q(10-15) m(1500mcg)\
+&nbsp;&nbsp; 250-500mcg/dose nebulized q(10-15) m(1500mcg)\
 &nbsp;&nbsp; 4-8 puffs (80-160mcg) w/spacer q(20min) m(30 puffs)
 
 ### Pediatric:

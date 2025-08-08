@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Codeine
+title: codeine
 scope: information-only
 version: pcp/7.1
 ---
 
 ## Generic Name
 
-Codeine
+codeine
 
 ## Trade Name
 

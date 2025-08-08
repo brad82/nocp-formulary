@@ -36,7 +36,7 @@ May increase chances of [Reye's syndrome](https://en.wikipedia.org/wiki/Reye_syn
 
 Used in caution with patients who report allergies to NSAID medications.
 
-Use caution in people with active ulcers or Bleeding disorders.
+Use caution in people with active ulcers or bleeding disorders.
 
 May cause bronchoconstriction in asthmatics.
 
@@ -55,19 +55,19 @@ Does higher than recommended can interfere with possible benefits.
 
 ### Chest pain:
 
-Adult:\
+Adult:  
 &nbsp;&nbsp;160-325mg non-enteric coated tablet chewed
 
-Pediatric:\
+Pediatric:  
 &nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
 ### Mild pain or fever
 
-Adult:\
-&nbsp;&nbsp; 325-650mg PO q 4hrs\
+Adult:  
+&nbsp;&nbsp; 325-650mg PO q 4hrs  
 &nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)
 
-Pediatric:\
+Pediatric:  
 &nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
 ## Supplied

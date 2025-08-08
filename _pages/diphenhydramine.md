@@ -27,7 +27,7 @@ Antihistamine
 
 - Patients taking non-selective MAO inhibitors (isocarboxazid, phenelzine)
 - Nursing mothers
-- Norrow angle glaucoma (relative)
+- Narrow angle glaucoma (relative)
 
 ## Precautions
 
