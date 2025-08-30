@@ -54,8 +54,6 @@ Caution patients not to operate motor vehicles or dangerous equipment due to dro
 &nbsp;&nbsp;**6-12 Years:** 12.5-25mg PO q 6-8hrs to a max of 150mg\
 &nbsp;&nbsp;**\> 12 Years:** same as adult dosing
 
-If a head injury is suspected start with a half dose of 12.5g per single dose, however, do not withold sugar if the blood sugar is below normal ranges in any situation
-
 ## Supplied
 
 - 50mg in 1mL
