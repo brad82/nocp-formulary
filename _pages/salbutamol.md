@@ -53,8 +53,8 @@ Adult:
 &nbsp;&nbsp;4-8 puffs MDI (400-800mcg) q(5-10) m(∞)
 
 Pediatric:  
-&nbsp;&nbsp;&gt; 20kg: 2.5mg nebulized q(20min) m(∞)  
-&nbsp;&nbsp;&lt; 20kg: 2.5-5mg nebulized q(20min) m(∞)
+&nbsp;&nbsp;&lt; 20kg: 2.5mg nebulized q(20min) m(∞)  
+&nbsp;&nbsp;&gt; 20kg: 2.5-5mg nebulized q(20min) m(∞)
 
 4-8 puffs (400-800mcg) with MDI and spacer if not intubated
 
