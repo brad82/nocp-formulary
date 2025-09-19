@@ -60,7 +60,7 @@ Hypotension, BP < 100 systolic
 
 ## Mechanism
 
-Diphenhydramine is an H~1~ and H~2~ antagonist, blocking histamine release.
+Diphenhydramine is an H₁ and H₂ antagonist, blocking histamine release.
 
 By blocking the histamine receptors, it decreases the bronchoconstriction and caillary dilation.
 
