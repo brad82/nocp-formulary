@@ -35,11 +35,11 @@ May potentiate warfarin and apixaban action.
 
 ## Side effects
 
+- Nausea/vomiting
 - Angioedema
 - Dizziness
 - Urticaria
 - Laryngeal edema
-- Nausea/vomiting
 - Hepatic toxicity in large doses
 
 ** All minimal if within recommended dosage **
@@ -48,21 +48,14 @@ May potentiate warfarin and apixaban action.
 
 **Titrate to effect**
 
-Adult:\
-&nbsp;&nbsp; 325-650mg PO q 4-6hrs PRN (do not exceed 4000mg/day) or 650-1000mg IV (IV ALS Only)
+Adult:  
+&nbsp;&nbsp; 325-650mg PO q 4-6hrs PRN m(4000mg/day)  
+&nbsp;&nbsp; 650-1000mg IV (IV ALS Only)
 
-Pediatric:\
-&nbsp;&nbsp; 10-15 mg/kg/dose (do not exceed 5 doses/day or 2.6g) or 12.5mg/kg for ages 2-12\
-&nbsp;&nbsp; Pediatric doses should be confirmed with Pharmacist or Physician
-
-### Mild pain or fever
-
-Adult:\
-&nbsp;&nbsp; 325-650mg PO q 4hrs\
-&nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)
-
-Pediatric:\
-&nbsp;&nbsp;⚠️ Not recommended pre-hospital
+Pediatric:   
+&nbsp;&nbsp; **2-12:** 12.5mg/kg   
+&nbsp;&nbsp; **> 12:** 10-15 mg/kg/dose (do not exceed 5 doses/day or 2.6g)    
+&nbsp;&nbsp; ⚠️ Pediatric doses should be confirmed with Pharmacist or Physician
 
 ## Supplied
 
