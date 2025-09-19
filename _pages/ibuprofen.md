@@ -52,11 +52,11 @@ Ibuprofen is cleared through the kidneys and therefore long-term usage can resul
 
 ### Mild to moderate pain
 
-Adult:\
+Adult:   
 &nbsp;&nbsp; 400mg PO q(4hrs) PRN to a max of 1200mg/day
 
-Pediatric:\
-&nbsp;&nbsp; 6mo - 12 years:\
+Pediatric:   
+&nbsp;&nbsp; 6mo - 12 years:   
 Baseline temp < 39c: 5mg/kg PO\
 Baseline temp > 39c: 10mg/kg PO
 
