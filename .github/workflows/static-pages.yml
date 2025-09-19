@@ -51,3 +51,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Trigger WordPress Update
+        run: curl -X GET "https://pmaflashcards.wpenginepowered.com/wp-load.php?import_key=$WPAI_IMPORT_KEY&import_id=$WPAI_IMPORT_ID&action=trigger"
