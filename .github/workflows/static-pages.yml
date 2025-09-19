@@ -52,4 +52,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Trigger WordPress Update
+        env:
+          WPAI_IMPORT_KEY: ${{ secrets.WPAI_IMPORT_KEY }}
+          WPAI_IMPORT_ID: ${{ vars.WPAI_IMPORT_ID }}
         run: curl -X GET "https://pmaflashcards.wpenginepowered.com/wp-load.php?import_key=$WPAI_IMPORT_KEY&import_id=$WPAI_IMPORT_ID&action=trigger"
