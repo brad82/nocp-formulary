@@ -59,21 +59,12 @@ Penthrox® may potentiate the effects of other analgesics so the provider must p
 
 **Titrate to effect**
 
-Adult:\
-&nbsp;&nbsp; 3mL initial dose and potentially repeated after 20mins if required, with a maximum daily dose (24hrs) of 6mLs.\
+Adult:   
+&nbsp;&nbsp; 3mL initial dose q 20mins (if required),  m(6mLs/24h).   
 &nbsp;&nbsp; If a stronger dose is required to manage the pain, the patient can temporarily cover the dilution hole on the top of the device to increase the concentration of the inhaled medication
 
-Pediatric:\
+Pediatric:   
 &nbsp;&nbsp;⚠️ Not approved for Pediatric use in Canada.
-
-### Mild pain or fever
-
-Adult:\
-&nbsp;&nbsp; 325-650mg PO q 4hrs\
-&nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)
-
-Pediatric:\
-&nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
 ## Supplied
 
@@ -81,14 +72,20 @@ Pediatric:\
 
 ## Mechanism
 
-Once digested ASA causes changes to the surfaces of platelets decreasing its effectiveness in clot formation.
+The mechanism is not exactly known, however, it is believed the following:
 
-It blocks formation of thromboxane A2, which causes platelets to aggregate and arteries to constrict in the clotting cascade. This change lasts as long as the platelet is in circulation (5 - 7 days).
+Interferes with the release and re-uptake of neurotransmitters at post-synaptic terminals.
 
-- Onset in 5-30 min
-- Peak effects within 15-120 min
-- Duration of 1-4 hours
-- ½ life of 15-20 min
+Alters ionic conductance following receptor activation by a neurotransmitter, thereby disrupting neuronal transmission.
+
+In addition, this agent activates the inhibitory receptor gamma-aminobutyric acid (GABA).
+
+Metabolised through the liver
+
+- Onset in 1-3 min
+- Peak effects within 15 mins (based on 3mL dose)
+- Duration of 25-30 minutes with continual inhalation per 3 mL dose. 3-5 minutes once administration ceased
+- ½ life of 3.16 hours based on 3mL dose
 
 ## Notes
 
