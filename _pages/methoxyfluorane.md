@@ -42,7 +42,7 @@ Patients on Beta Blockers may experience hypotension so vital signs must be moni
 
 Penthrox® may potentiate the effects of other analgesics so the provider must pay extra attention in this case and reassess the patient more frequently
 
-## Side effects
+## Side Effects
 
 - Dizziness
 - Headache

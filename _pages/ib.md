@@ -35,7 +35,7 @@ Bronchodilator, anticholinergic
 
 Avoid getting in the eyes of patients especially those with glaucoma as it may lead to an increase in intra-ocular pressure by as much as 23% through muscles in your eyes relaxing
 
-## Side effects
+## Side Effects
 
 - Palpitations
 - Anxiety

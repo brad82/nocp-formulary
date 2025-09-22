@@ -34,7 +34,7 @@ Opiod, analgesic, antitussive
 
 Other prescribed opioids
 
-## Side effects
+## Side Effects
 
 - Respiratory depression - arrest
 - Constipation

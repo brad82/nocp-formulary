@@ -34,7 +34,7 @@ Calcium channel blocker overdose (ALS Only)
 
 May take up to 15 mins to see effects
 
-## Side effects
+## Side Effects
 
 - Hypotension
 - Tachycardia

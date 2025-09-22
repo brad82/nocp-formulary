@@ -33,7 +33,7 @@ Antihistamine
 
 Hypotension, BP < 100 systolic
 
-## Side effects
+## Side Effects
 
 - Dose related drowiness (lethargy)
 - Dizziness

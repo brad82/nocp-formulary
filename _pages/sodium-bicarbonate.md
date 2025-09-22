@@ -36,7 +36,7 @@ Alkanizing agent
 
 May induce metabolic alkalosis
 
-## Side effects
+## Side Effects
 
 - Metabolic alkalosis
 - Hypoxia

@@ -35,7 +35,7 @@ Long term usage can increase the incidence of serious GI side effects.
 
 Ibuprofen is cleared through the kidneys and therefore long-term usage can result in renal impairment.
 
-## Side effects
+## Side Effects
 
 - Edema
 - Dizziness

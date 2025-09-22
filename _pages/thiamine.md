@@ -31,7 +31,7 @@ None in emergent situations
 
 Should not be used as part of a "coma cocktail" (naloxone, D₅₀W, thiamine, anexate) to correct an altered level of conciousness patient
 
-## Side effects
+## Side Effects
 
 - Hypotension (from rapid injection or large dose)
 - Respiratory failure/arrest

@@ -33,7 +33,7 @@ Can cause hepatotoxicity in patients with chronic excessive alcohol consumption.
 
 May potentiate warfarin and apixaban action.
 
-## Side effects
+## Side Effects
 
 - Nausea/vomiting
 - Angioedema

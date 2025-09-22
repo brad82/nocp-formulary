@@ -38,7 +38,7 @@ When large amounts of normal saline are administered, it is quite possible for o
 
 In cases where large amounts of fluids may have to be administered, it might be prudent to use lactated Ringers solution.
 
-## Side effects
+## Side Effects
 
 Rare if used within the required theraputic dosages
 

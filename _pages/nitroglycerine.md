@@ -39,7 +39,7 @@ Use extreme caution in RVI patients (preload dependant)
 
 Unable to initiate an IV
 
-## Side effects
+## Side Effects
 
 - Hypotension
 - Nausea/vomiting

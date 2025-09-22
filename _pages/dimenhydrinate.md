@@ -33,7 +33,7 @@ Use with caution in known seizure disorders and asthma
 
 Caution patients not to operate motor vehicles or dangerous equipment due to drowsiness associated with medication.
 
-## Side effects
+## Side Effects
 
 - Dizziness
 - Drowziness

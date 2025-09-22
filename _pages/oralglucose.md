@@ -31,7 +31,7 @@ Hypoglycemia
 
 None noted.
 
-## Side effects
+## Side Effects
 
 - Nausea/vomiting
 - Dizziness

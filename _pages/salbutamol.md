@@ -35,7 +35,7 @@ Hypersensitivity
 - May cause hyperglycemia
 - Watch for paradoxical bronchospasm (stop administration initmmediately)
 
-## Side effects
+## Side Effects
 
 - Headache
 - Dizziness

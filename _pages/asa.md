@@ -42,7 +42,7 @@ May cause bronchoconstriction in asthmatics.
 
 Does higher than recommended can interfere with possible benefits.
 
-## Side effects
+## Side Effects
 
 - Nausea/vomiting
 - GI bleeding

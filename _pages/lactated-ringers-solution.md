@@ -31,7 +31,7 @@ Lactated Ringers solution should not be used in patients with CHF, renal or live
 
 Patients receiving lactated Ringers solution should be monitored to prevent circulatory overload.
 
-## Side effects
+## Side Effects
 
 Rare if used within the required theraputic doses
 

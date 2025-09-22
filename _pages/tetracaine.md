@@ -32,7 +32,7 @@ Topical ophthalmic anesthetic
 
 Tetracaine is not recommended for long term use
 
-## Side effects
+## Side Effects
 
 - Burning or stinging sensation
 - Blurred vision
