@@ -58,11 +58,12 @@ Penthrox® may potentiate the effects of other analgesics so the provider must p
 ## Dose
 
 ### Adult:   
-&nbsp;&nbsp; 3mL initial dose q 20mins (if required),  m(6mLs/24h).   
-&nbsp;&nbsp; If a stronger dose is required to manage the pain, the patient can temporarily cover the dilution hole on the top of the device to increase the concentration of the inhaled medication
+3mL initial dose q 20mins (if required), m(6mLs/24h).   
+
+If a stronger dose is required to manage the pain, the patient can temporarily cover the dilution hole on the top of the device to increase the concentration of the inhaled medication
 
 ### Pediatric:   
-&nbsp;&nbsp;⚠️ Not approved for Pediatric use in Canada.
+⚠️ Not approved for Pediatric use in Canada.
 
 ## Supplied
 

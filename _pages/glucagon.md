@@ -48,18 +48,18 @@ May take up to 15 mins to see effects
 ### Hypoglycemia
 
 #### Adult:
-&nbsp;&nbsp;1mg IM/SC q(7-10) to a max of 2mg
+1mg IM/SC q(7-10) to a max of 2mg
 
 #### Pediatric:
-&nbsp;&nbsp;\> 20kg 0.5-1.0mg IM
+\> 20kg 0.5-1.0mg IM
 
 ### β Blocker/calcium channel blocker overdose (ALS Only)
 
 #### Adult:
-&nbsp;&nbsp;3-10 mg SIVP/IO followed by a second dose of 10mg SIVP/IO or an infusion at 3-5mg/hr
+3-10 mg SIVP/IO followed by a second dose of 10mg SIVP/IO or an infusion at 3-5mg/hr
 
 #### Pediatric:
-&nbsp;&nbsp;\> 20kg 0.5mg SIVP/IO
+\> 20kg 0.5mg SIVP/IO
 
 ## Supplied
 

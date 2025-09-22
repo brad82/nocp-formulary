@@ -45,14 +45,15 @@ Caution patients not to operate motor vehicles or dangerous equipment due to dro
 
 ### Adult:
 
-&nbsp;&nbsp;12.5-50mg SIVP/I (diluted with 10mL NS), or 50-100mg IM/PO q 4 hours
+SIVP/IO: 12.5-50mg (diluted with 10mL NS)
+IM/PO: 50-100mg q 4 hours
 
 ### Pediatric:
 
-&nbsp;&nbsp;12.5-25mg SIVP/IO to a max of 75mg\
-&nbsp;&nbsp;**2-6 Years:** 12.5-25mg PO q 6-8hrs to a max of 75mg\
-&nbsp;&nbsp;**6-12 Years:** 12.5-25mg PO q 6-8hrs to a max of 150mg\
-&nbsp;&nbsp;**\> 12 Years:** same as adult dosing
+SIVP/IO: 12.5-25mg max of 75mg\
+**2-6 Years:** 12.5-25mg PO q 6-8hrs to a max of 75mg\
+**6-12 Years:** 12.5-25mg PO q 6-8hrs to a max of 150mg\
+**\> 12 Years:** same as adult dosing
 
 ## Supplied
 

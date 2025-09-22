@@ -47,11 +47,11 @@ Hypotension, BP < 100 systolic
 
 ### Adult:
 
-&nbsp;&nbsp; 25-50mg SIVP or IM/PO
+SIVP/IM/PO 25-50mg
 
 ### Pediatric:
 
-&nbsp;&nbsp;1-2mg/kg given IV/IM/PO
+IV/IM/PO: 1-2mg/kg
 
 ## Supplied
 

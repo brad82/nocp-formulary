@@ -42,14 +42,14 @@ Use with caution in narcotic-dependent patients who may experience withdrawal sy
 Titrate to effect:
 
 ### Adult:
-&nbsp;&nbsp;0.4mg-2mg IV/IO/IM/SC/ETT m(2mg)\
-&nbsp;&nbsp;1.0mg/nare IN, q(3-5) prn
+0.4mg-2mg IV/IO/IM/SC/ETT m(2mg)\
+1.0mg/nare IN, q(3-5) prn
 
 ### Pediatric < 5yo / 20kg :
-&nbsp;&nbsp;0.1mg/kg, m(2.0mg) IV/IO/IM/SC/ETT q(3-5) prn
+0.1mg/kg, m(2.0mg) IV/IO/IM/SC/ETT q(3-5) prn
 
 ### Pediatric > 5yo / 20kg :\
-&nbsp;&nbsp;2.0mg/kg, m(2.0mg) IV/IO/IM/SC/ETT
+2.0mg/kg, m(2.0mg) IV/IO/IM/SC/ETT
 
 **via ETT ALS Only**
 
