@@ -55,19 +55,19 @@ Does higher than recommended can interfere with possible benefits.
 
 ### Chest pain:
 
-Adult:  
+### Adult:
 &nbsp;&nbsp;160-325mg non-enteric coated tablet chewed
 
-Pediatric:  
+### Pediatric:
 &nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
 ### Mild pain or fever
 
-Adult:  
+### Adult:
 &nbsp;&nbsp; 325-650mg PO q 4hrs  
 &nbsp;&nbsp; 300mg PR if patient suffers from nausea/vomiting (ALS Only)
 
-Pediatric:  
+### Pediatric:
 &nbsp;&nbsp;⚠️ Not recommended pre-hospital
 
 ## Supplied

@@ -45,11 +45,11 @@ Hypotension, BP < 100 systolic
 
 ## Dose
 
-#### Adult:
+### Adult:
 
 &nbsp;&nbsp; 25-50mg SIVP or IM/PO
 
-#### Pediatric:
+### Pediatric:
 
 &nbsp;&nbsp;1-2mg/kg given IV/IM/PO
 

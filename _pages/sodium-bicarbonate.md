@@ -48,9 +48,12 @@ May induce metabolic alkalosis
 
 ⚠️ ALS Only ⚠️
 
-**Adult** 1mEq/kg SIVP (8.4% solution) followed with 0.5mEq/kg q 10min PRN  
-**Pediatric** 1mEq/kg SIVP slowly  
-**Neonate** 2mEq/kg SIVP of 4.2% solution
+### Adult
+1mEq/kg SIVP (8.4% solution) followed with 0.5mEq/kg q 10min PRN  
+### Pediatric
+1mEq/kg SIVP slowly  
+### Neonate
+2mEq/kg SIVP of 4.2% solution
 
 ## Supplied
 

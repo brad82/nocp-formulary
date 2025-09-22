@@ -39,12 +39,12 @@ Rare if used within the required theraputic doses
 
 ### Resuscitation
 
-Adult:  
+#### Adult:
 &nbsp;&nbsp;20mL/kg to a max of 3L and/or titrate to:  
 &nbsp;&nbsp;&nbsp;&nbsp;- 80-90 Systolic for suspected Abdominal Bleeds  
 &nbsp;&nbsp;&nbsp;&nbsp;- 100-110 systolic for Traumatic Brain Injuries
 
-Pediatric:  
+#### Pediatric:
 &nbsp;&nbsp;20mL/kg to a max of 3 times as per PEARS
 
 ### TKVO

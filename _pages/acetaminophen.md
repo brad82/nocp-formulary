@@ -48,11 +48,11 @@ May potentiate warfarin and apixaban action.
 
 **Titrate to effect**
 
-Adult:  
+### Adult:  
 &nbsp;&nbsp; 325-650mg PO q 4-6hrs PRN m(4000mg/day)  
 &nbsp;&nbsp; 650-1000mg IV (IV ALS Only)
 
-Pediatric:   
+### Pediatric:
 &nbsp;&nbsp; **2-12:** 12.5mg/kg   
 &nbsp;&nbsp; **> 12:** 10-15 mg/kg/dose (do not exceed 5 doses/day or 2.6g)    
 &nbsp;&nbsp; ⚠️ Pediatric doses should be confirmed with Pharmacist or Physician
